@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_000162
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: الزركشي
-#NewRec# 010.AuthorNAME	:: محمد بن بهادر بن عبد الله الزركشي أبو عبد الله
-#NewRec# 011.AuthorBORN	:: 745
-#NewRec# 011.AuthorDIED	:: 794
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: البرهان في علوم القرآن
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: علوم القرآن :: كتب التفاسير وعلوم القرآن
-#NewRec# 022.BookVOLS	:: 4
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: البرهان في علوم القرآن
-#NewRec# 030.LibURI	:: JK_000162
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: محمد أبو الفضل إبراهيم
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار المعرفة
-#NewRec# 044.EdPLACE	:: بيروت
-#NewRec# 045.EdYEAR	:: 1391
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_000162
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: الزركشي
+#META# 010.AuthorNAME	:: محمد بن بهادر بن عبد الله الزركشي أبو عبد الله
+#META# 011.AuthorBORN	:: 745
+#META# 011.AuthorDIED	:: 794
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: البرهان في علوم القرآن
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: علوم القرآن :: كتب التفاسير وعلوم القرآن
+#META# 022.BookVOLS	:: 4
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: البرهان في علوم القرآن
+#META# 030.LibURI	:: JK_000162
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: محمد أبو الفضل إبراهيم
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار المعرفة
+#META# 044.EdPLACE	:: بيروت
+#META# 045.EdYEAR	:: 1391
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
